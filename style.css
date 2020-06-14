@@ -1,0 +1,430 @@
+body{
+	color:#666666;
+}
+a{
+	text-decoration:none;
+}
+ul{
+	list-style:none;
+	padding:0px;
+	margin:0px;
+}
+.header-area{
+	background:#87509C;
+	padding-top:42px;
+}
+.logo{
+	text-align: left;
+	
+}
+.logo img{
+	width: 273px;
+    height: 64px;
+}
+.logo p{
+	font-size:11px;
+	color:#fff;
+	line-height:90%;
+	
+}	
+.menu{
+	
+}
+.menu ul{
+	text-align:right;
+	
+}
+.menu ul li{
+	display:inline-block;
+	margin:4px
+}
+.menu ul li a{
+	padding:5px 20px;
+	display:block;
+	color:#fff;
+	font-size:16px;
+	border-radius:5px;
+	text-transform:uppercase;
+}
+.menu ul li a:hover, .menu ul li a.active{
+	 background:#643a79; 
+ }
+ /*header area end for hear*/
+
+ /*home area start for hear*/
+.home-area{
+	background:#87509C;
+}
+.home-part h2{
+	text-align: center;
+	color: #fff;
+}
+.call-to-action-header{
+	text-align: center;
+}
+.call-to-action-header a{
+	background:#eb7d4b;
+	padding:10px 40px;
+	font-size:20px;
+	color:#fff;
+	margin-top:50px;
+	display:inline-block;
+	border-radius:5px;
+	box-shadow:0px 5px 0px #c86a40;
+ }
+ /*home area end for hear*/
+ /*servise area start for hear*/
+ .about-area{
+ 	background:#17C2A4;
+ }
+ .about h2{
+ 	text-align: center;
+ 	color: #fff;
+ }
+ .about-area a{
+ 	color:#fff;
+ }
+ .wed-degin{
+	 text-align: center;
+	 
+ }
+ .wed-degin h5{
+ 	color: #fff;
+ 	text-transform: uppercase;
+ 	text-align: center;
+ }
+ .wed-degin p{
+ 	text-align: left;
+ }
+ .wed-degin p a:hover{
+ 	color:#fff;
+ 	background:#159F87;
+ 	border-radius: 5px; 
+ }
+ .grafix-degin{
+	 text-align: center;
+	 
+ }
+.grafix-degin h5{
+	color: #fff;
+ 	text-transform: uppercase;
+ 	text-align: center;
+}
+.grafix-degin p{
+ 	text-align: left;
+ }
+.grafix-degin p a:hover{
+ 	color:#fff;
+ 	background:#159F87;
+ 	border-radius: 5px; 
+ }
+.programing{
+	 text-align: center;
+	
+ }
+.programing h5{
+	color: #fff;
+ 	text-transform: uppercase;
+ 	text-align: center;
+}
+.programing p{
+ 	text-align: left;
+ }
+.programing p a:hover{
+ 	color:#fff;
+ 	background:#159F87;
+ 	border-radius: 5px; 
+ }
+ .mycrosoft-office{
+	 text-align: center;
+	 
+ }
+.mycrosoft-office h5{
+	color: #fff;
+ 	text-transform: uppercase;
+ 	text-align: center;
+}
+.mycrosoft-office p{
+ 	text-align: left;
+ }
+.mycrosoft-office p a:hover{
+ 	color:#fff;
+ 	background:#159F87;
+ 	border-radius: 5px; 
+ }
+ /*about area end for hear*/
+ /*our member list start for hear*/
+ .member-area{
+background:#e7f1f8;
+}
+
+.member-area .t-middle-area>h2{
+	color:#3c4761;
+	font-size:40px;
+	margin:0;
+	text-align:center;
+	letter-spacing:5px;
+}
+.member-area .t-middle-area>p{
+	text-align:center;
+	color:#3c4761;
+	font-size:19px;
+	width:58%;
+	margin:auto;
+}
+.member-area{
+	text-align:center;
+}
+.member-area img{
+	border-radius:100px;
+	height: 200px;
+	width: 200px;
+}
+.member-area .tb-1 h4{
+	color:#3c4761;
+	text-transform:uppercase;
+	letter-spacing:1px;
+}
+.member-area .tb-1 h5{
+	color:#8cd1ee;
+}
+.member-area .tb-1 p{
+	color:#3c4761;
+	width:80%;
+	margin:auto;
+}
+.member-area .tb-1 h4{
+	color:#3c4761;
+	text-transform:uppercase;
+	letter-spacing:1px;
+}
+.member-area .tb-1 h5{
+	color:#8cd1ee;
+}
+.member-area .tb-1 p{
+	color:#3c4761;
+	width:80%;
+	margin:auto;
+}
+.member-area .tb-2 h4{
+	color:#3c4761;
+	text-transform:uppercase;
+	letter-spacing:1px;
+}
+.member-area .tb-2 h5{
+	color:#8cd1ee;
+}
+.member-area .tb-2 p{
+	color:#3c4761;
+	width:80%;
+	margin:auto;
+}
+.member-area .tb-3 h4{
+	color:#3c4761;
+	text-transform:uppercase;
+	letter-spacing:1px;
+}
+.member-area .tb-3 h5{
+	color:#8cd1ee;
+}
+.member-area .tb-3 p{
+	color:#3c4761;
+	width:80%;
+	margin:auto;
+}
+.member-area .tb-4 h4{
+	color:#3c4761;
+	text-transform:uppercase;
+	letter-spacing:1px;
+}
+.member-area .tb-4 h5{
+	color:#8cd1ee;
+}
+.member-area .tb-4 p{
+	color:#3c4761;
+	width:80%;
+	margin:auto;
+}
+.member-area .sosal-icon{
+	font-size:20px;
+	background:#bdd1df;
+	padding:5px 8px;
+	margin-top:35px;
+	display:inline-block;
+	border-radius:100px;
+}
+.member-area .sosal-icon a{
+	color:#fff;
+}
+/*member area end for hear*/
+ /*skil area start for hear*/
+.skills-area{
+	background:#fff;
+}
+
+.skills h2{
+	color:#3c4761;
+	font-size:40px;
+	text-transform:uppercase;
+	text-align:center;
+	letter-spacing:5px;
+}
+.skills p{
+	text-align:center;
+	color:#3c4761;
+	font-size:19px;
+
+}
+.skills hr{
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-bottom:5px solid #c8d9e5;
+	width:10%;
+}
+.skills-boxes{
+	text-align:center;
+}
+/*poprtfolio area start for hear*/
+
+.portfolio-area{
+	background-color: #ffdd99;;
+}
+.portfolio{
+	text-align: center;
+}
+.portfolio h2{
+	text-transform: uppercase;
+}
+.portfolio a {
+	background:#ebc985;
+	text-transform:uppercase;
+	padding:7px 0px;
+	margin-top:25px;
+	font-size:18px;
+	width:7%;
+	display:inline-block;
+	border-radius:5px;
+}
+.call-to-action{
+	padding:10px 30px;
+	font-size:20px;
+	color:#fff;
+	background:#30bae7;
+	text-transform:uppercase;
+	display:inline-block;
+	border-radius:5px;
+	box-shadow:0px 5px 0px #299ec5;
+}
+.call-to-action a{
+	color:#fff;
+}
+.ca_ac{
+	text-align: center;
+}
+/*poprtfolio area end for hear*/
+/*get-in area start for hear*/
+.get-in-area{
+	background-color: #3c5499;
+}
+.gi-header-area{
+	text-align: center;
+	color:#fff;
+}
+.gi-header-area h2{
+	color:#fff;
+}
+.name{
+	text-align: center;
+}
+.email{
+	text-align: center;
+}
+
+
+
+.message{
+	text-align: center;
+}
+.send_message{
+	text-transform:uppercase;
+	font-size:18px;
+	border-radius:5px;
+	display:inline-block;
+}
+.send_option{
+	text-align: center;
+	background:#30bae7;
+	padding:10px 40px;
+	font-size:18px;
+	text-transform:uppercase;
+	margin-top:50px;
+	margin-left: 38%;
+	display:inline-block;
+	border-radius:5px;
+	box-shadow:0px 5px 0px #299ec5;
+	
+}
+.send_option a{
+	color:#fff;
+}
+.Name{
+	text-align: center;
+}
+.email{
+	text-align: center;
+}
+.Name input{
+	padding-right: 20%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-right: 25px;
+	font-size: 18px;
+	background: #273a71;
+	border-radius: 5px;
+	color: #ffff
+}
+.email input{
+	padding-right: 20%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-right: 25px;
+	font-size: 18px;
+	background: #273a71;
+	border-radius: 5px;
+	color: #ffff
+}
+.message input{
+	padding-right: 63%;
+	padding-top: 15px;
+	padding-bottom: 150px;
+	margin-right: 25px;
+	font-size: 18px;
+	background: #273a71;
+	border-radius: 5px;
+	color: #ffff;
+}
+
+/*get-in area end for hear*/
+/*link area start for hear*/
+
+
+.link-area{
+background-color: #344b8e;
+}
+.link-area a{
+	font-size:24px;
+	color:#fff;
+	margin-left:6%;
+}
+.link-area a:hover{
+	color:#30bae7;
+}
+/*link area end for hear*/
+.copyrights{
+	background: #000;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 10px;
+	color: #fff;
+}
